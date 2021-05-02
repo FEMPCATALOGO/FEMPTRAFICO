@@ -26,7 +26,7 @@ author:
   links:
     - label: "Página web"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "http://vocab.ciudadesabiertas.es/def/transporte/trafico/index-es.html"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/opencitydata/vocab-transporte-trafico"
